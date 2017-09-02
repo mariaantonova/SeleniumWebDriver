@@ -1,0 +1,10 @@
+D:\SeleniumWebDriver\SetupingYourEnvirorment\SetupEnvironment\SetupEnvironment\bin\Debug\SetupEnvironment.exe.config
+D:\SeleniumWebDriver\SetupingYourEnvirorment\SetupEnvironment\SetupEnvironment\bin\Debug\SetupEnvironment.exe
+D:\SeleniumWebDriver\SetupingYourEnvirorment\SetupEnvironment\SetupEnvironment\bin\Debug\SetupEnvironment.pdb
+D:\SeleniumWebDriver\SetupingYourEnvirorment\SetupEnvironment\SetupEnvironment\bin\Debug\WebDriver.dll
+D:\SeleniumWebDriver\SetupingYourEnvirorment\SetupEnvironment\SetupEnvironment\bin\Debug\WebDriver.Support.dll
+D:\SeleniumWebDriver\SetupingYourEnvirorment\SetupEnvironment\SetupEnvironment\bin\Debug\WebDriver.xml
+D:\SeleniumWebDriver\SetupingYourEnvirorment\SetupEnvironment\SetupEnvironment\bin\Debug\WebDriver.Support.xml
+D:\SeleniumWebDriver\SetupingYourEnvirorment\SetupEnvironment\SetupEnvironment\obj\Debug\SetupEnvironment.csprojResolveAssemblyReference.cache
+D:\SeleniumWebDriver\SetupingYourEnvirorment\SetupEnvironment\SetupEnvironment\obj\Debug\SetupEnvironment.exe
+D:\SeleniumWebDriver\SetupingYourEnvirorment\SetupEnvironment\SetupEnvironment\obj\Debug\SetupEnvironment.pdb

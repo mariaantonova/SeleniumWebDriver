@@ -1,0 +1,3 @@
+D:\SeleniumWebDriver\SetupingYourEnvirorment\SetupEnvironment\SetupEnvironment\bin\Debug\SetupEnvironment.exe.config
+D:\SeleniumWebDriver\SetupingYourEnvirorment\SetupEnvironment\SetupEnvironment\obj\Debug\SetupEnvironment.exe
+D:\SeleniumWebDriver\SetupingYourEnvirorment\SetupEnvironment\SetupEnvironment\obj\Debug\SetupEnvironment.pdb

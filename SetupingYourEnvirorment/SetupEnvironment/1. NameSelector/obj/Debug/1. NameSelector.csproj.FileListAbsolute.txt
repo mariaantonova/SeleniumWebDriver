@@ -1,0 +1,2 @@
+D:\SeleniumWebDriver\SetupingYourEnvirorment\SetupEnvironment\1. NameSelector\obj\Debug\1. NameSelector.csprojResolveAssemblyReference.cache
+D:\SeleniumWebDriver\SetupingYourEnvirorment\SetupEnvironment\1. NameSelector\bin\Debug\_1.NameSelector.exe.config

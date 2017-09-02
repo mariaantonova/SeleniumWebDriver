@@ -1,0 +1,9 @@
+D:\SeleniumWebDriver\SetupingYourEnvirorment\SetupEnvironment\2. ID Selector\bin\Debug\_2.ID_Selector.exe.config
+D:\SeleniumWebDriver\SetupingYourEnvirorment\SetupEnvironment\2. ID Selector\bin\Debug\_2.ID_Selector.exe
+D:\SeleniumWebDriver\SetupingYourEnvirorment\SetupEnvironment\2. ID Selector\bin\Debug\_2.ID_Selector.pdb
+D:\SeleniumWebDriver\SetupingYourEnvirorment\SetupEnvironment\2. ID Selector\bin\Debug\WebDriver.dll
+D:\SeleniumWebDriver\SetupingYourEnvirorment\SetupEnvironment\2. ID Selector\bin\Debug\WebDriver.Support.dll
+D:\SeleniumWebDriver\SetupingYourEnvirorment\SetupEnvironment\2. ID Selector\bin\Debug\WebDriver.xml
+D:\SeleniumWebDriver\SetupingYourEnvirorment\SetupEnvironment\2. ID Selector\bin\Debug\WebDriver.Support.xml
+D:\SeleniumWebDriver\SetupingYourEnvirorment\SetupEnvironment\2. ID Selector\obj\Debug\_2.ID_Selector.exe
+D:\SeleniumWebDriver\SetupingYourEnvirorment\SetupEnvironment\2. ID Selector\obj\Debug\_2.ID_Selector.pdb

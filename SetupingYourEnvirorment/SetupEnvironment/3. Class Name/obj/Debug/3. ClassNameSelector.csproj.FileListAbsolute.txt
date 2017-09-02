@@ -1,0 +1,9 @@
+D:\SeleniumWebDriver\SetupingYourEnvirorment\SetupEnvironment\3. Class Name\bin\Debug\_3.Class_Name.exe.config
+D:\SeleniumWebDriver\SetupingYourEnvirorment\SetupEnvironment\3. Class Name\bin\Debug\_3.Class_Name.exe
+D:\SeleniumWebDriver\SetupingYourEnvirorment\SetupEnvironment\3. Class Name\bin\Debug\_3.Class_Name.pdb
+D:\SeleniumWebDriver\SetupingYourEnvirorment\SetupEnvironment\3. Class Name\bin\Debug\WebDriver.dll
+D:\SeleniumWebDriver\SetupingYourEnvirorment\SetupEnvironment\3. Class Name\bin\Debug\WebDriver.Support.dll
+D:\SeleniumWebDriver\SetupingYourEnvirorment\SetupEnvironment\3. Class Name\bin\Debug\WebDriver.xml
+D:\SeleniumWebDriver\SetupingYourEnvirorment\SetupEnvironment\3. Class Name\bin\Debug\WebDriver.Support.xml
+D:\SeleniumWebDriver\SetupingYourEnvirorment\SetupEnvironment\3. Class Name\obj\Debug\_3.Class_Name.exe
+D:\SeleniumWebDriver\SetupingYourEnvirorment\SetupEnvironment\3. Class Name\obj\Debug\_3.Class_Name.pdb
